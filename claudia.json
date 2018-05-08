@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-aws-katherinebernardez-executor",
+    "name": "workshop-ws-5-8-aws-katherinebernardez",
+    "region": "us-east-2"
+  }
+}
